@@ -14,3 +14,5 @@ just run `(your python interpreter here) main.py (path to your directory with pr
 latest python (3.12 probably works fine too)
 
 `pygame-ce` (not just `pygame`! it doesn't support text wrapping out of the box!)
+
+jetbrains mono from [nerd fonts](https://www.nerdfonts.com/) (call it `font.ttf`)
